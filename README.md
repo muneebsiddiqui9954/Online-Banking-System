@@ -3,11 +3,11 @@ Group 12
 
 Group Members:
 
-1- Muneeb Siddiqui
+1- Owais Jamal
 
 2- Abdul Hadi
 
-3- Owais Jamal
+3- Muneeb Siddiqui
 
 4- Umair Liaqat
 
